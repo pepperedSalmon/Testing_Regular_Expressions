@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Testing_Regular_Expressions", "Testing_Regular_Expressions\Testing_Regular_Expressions.pyproj", "{D25040E6-E5BA-4719-B040-38EE2A9AD077}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D25040E6-E5BA-4719-B040-38EE2A9AD077}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D25040E6-E5BA-4719-B040-38EE2A9AD077}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8B906939-60C0-4931-9629-C247859BCE81}
+	EndGlobalSection
+EndGlobal
